@@ -98,3 +98,27 @@
    margin-top: -20px;
    margin-bottom: 35px;
 }
+.Project{
+    height: 100vh;
+    width:100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.658),rgba(0, 0, 0, 0.658)),url(../img/pr1.JPG);
+    background-position-x: -20px;
+    background-position:0px;
+    background-size: cover;
+    text-align: center;
+    color:white;
+}
+.Tech{
+    height: 100vh;
+    width:100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.658),rgba(0, 0, 0, 0.658)),url(../img/pr2.JPG);
+    background-position-x: -20px;
+    background-position:0px;
+    background-size: cover;
+    text-align: center;
+    color:white;
+}
+.infos{
+    text-align: center;
+    font-size: 40px;
+}
