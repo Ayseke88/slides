@@ -6,24 +6,25 @@
     font-family: 'Raleway', sans-serif;
 }
 
-.sub-header2{
-    height: 85vh;
+.Aisana{
+    height: 100vh;
     width:100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.358),rgba(0, 0, 0, 0.358)),url(../img/bannerAboutus.jpg);
-    background-position-x: -20px;
-    background-position:65px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.358),rgba(0, 0, 0, 0.358)),url(../img/aisana.JPG);
+    background-position-x: 0px;
+    background-position:0px;
     background-size: cover;
-    text-align: center;
+    text-align: left;
     color:white;
+    margin-top: -60px;
 }
-.sub-header1{
-    height: 85vh;
+.Meir{
+    height: 100vh;
     width:100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.358),rgba(0, 0, 0, 0.358)),url(../img/bannerNews.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.358),rgba(0, 0, 0, 0.358)),url(../img/meir.jpg);
     background-position-x: -20px;
     background-position:0px;
     background-size: cover;
-    text-align: center;
+    text-align: left;
     color:white;
 }
 .title{
@@ -34,7 +35,7 @@
     -webkit-text-stroke:2px white;
 }
 .headerM{
-    height: 90vh;
+    height: 100vh;
     width:100%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.358),rgba(0, 0, 0, 0.358)),url(../img/login2.jpg);
     background-position-x: -20px;
@@ -43,6 +44,46 @@
     text-align: center;
     color:white;
     margin-bottom: 60px;
+}
+.Malika{
+    height: 100vh;
+    width:100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.558),rgba(0, 0, 0, 0.558)),url(../img/malika.jpg);
+    background-position-x: -20px;
+    background-position-y: -200px;
+    background-size: cover;
+    text-align: right;
+    color:white;
+}
+.Nekoma{
+    height: 100vh;
+    width:100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.358),rgba(0, 0, 0, 0.358)),url(../img/meir.jpg);
+    background-position-x: -20px;
+    background-position:0px;
+    background-size: cover;
+    text-align: left;
+    color:white;
+}
+.info p{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 20px;  
+}
+.infoM p{
+    text-align: right;
+    font-size: 20px;
+    margin-right: 20px;  
+}
+.Management{
+    height: 100vh;
+    width:100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.658),rgba(0, 0, 0, 0.658)),url(../img/trello.png);
+    background-position-x: -20px;
+    background-position:0px;
+    background-size: cover;
+    text-align: center;
+    color:white;
 }
 
 @keyframes back{
