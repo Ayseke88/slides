@@ -36,7 +36,7 @@
 .headerM{
     height: 90vh;
     width:100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.358),rgba(0, 0, 0, 0.358)),url(../img/slideForNews.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.358),rgba(0, 0, 0, 0.358)),url(../img/login2.jpg);
     background-position-x: -20px;
     background-position:0px;
     background-size: cover;
